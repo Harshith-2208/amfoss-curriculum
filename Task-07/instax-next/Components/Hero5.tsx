@@ -11,8 +11,8 @@ const Hero5 = () => {
     she begins a torrid affair with her much younger intern.
     </p>
     <div className="mt-4 space-x-4">
-      <button className="bg-white text-black px-4 py-2 rounded-md">Create New Review</button>
-      <button className="bg-white text-black px-4 py-2 rounded-md">View Recent Review</button>
+      <button className="bg-white text-black px-4 py-2 rounded-md"><a href='Hero5/review?movieId=5'>Write a Review</a></button>
+      <button className="bg-white text-black px-4 py-2 rounded-md"><a href='#recent'>View Recent Review</a></button>
     </div>
   </section></div>
   )

@@ -11,8 +11,8 @@ const Hero1 = () => {
       terrifying vampire infatuated with her, causing untold horror in its wake.
     </p>
     <div className="mt-4 space-x-4">
-      <button className="bg-white text-black px-4 py-2 rounded-md">Create New Review</button>
-      <button className="bg-white text-black px-4 py-2 rounded-md">View Recent Review</button>
+      <button className="bg-white text-black px-4 py-2 rounded-md"><a href='/Hero1/review?movieId=1'>Write a Review</a></button>
+      <button className="bg-white text-black px-4 py-2 rounded-md"><a href='#recent'>View Recent Review</a></button>
     </div>
   </section></div>
   )

@@ -1,0 +1,1 @@
+So in this task we need to create a new next.js project and make the front end of the letterboxd website. I have learned typescript in this task. This task also made me learn about how npm works. I got intrest in doing this task.

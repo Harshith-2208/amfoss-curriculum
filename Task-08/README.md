@@ -1,0 +1,1 @@
+This task is to do the backend of the letterboxd website(Task-07). I have used Flask for the backend of this website. This task is based on python and felt this a little boring. 

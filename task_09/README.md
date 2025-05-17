@@ -1,0 +1,2 @@
+This task is a app dev task to develop a Pokedex app. This project is done in Flutter and I have learned to write dart code and the backend of this app is also done in flask which was a little boring. Overall I enjoyed doing the pokedex app.
+   
